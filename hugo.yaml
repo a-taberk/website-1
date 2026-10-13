@@ -1,8 +1,10 @@
-baseURL = 'https://website-1-cy1.pages.dev/'
-locale = 'en-us'
-title = 'My New Hugo Project'
-theme = 'XMin'
-
+baseurl: "https://website-1-cy1.pages.dev/"  # please update this to your actual URL
+locale: "en-us"
+title: "A minimal Hugo website"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
 
 permalinks:
