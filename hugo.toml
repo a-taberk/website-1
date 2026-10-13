@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://website-1-cy1.pages.dev/'
 locale = 'en-us'
 title = 'My New Hugo Project'
+theme = 'XMin'
